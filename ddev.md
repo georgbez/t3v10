@@ -23,7 +23,7 @@ Local install:
     
 DDEV Live:
 
-    ddev-live create site typo3 georgbez/t3v10 --github-repo georgbez/t3v10 --docroot public --run-composer-install --typo3-version 10
+    ddev-live create site typo3 t3v10 --github-repo georgbez/t3v10 --docroot public --run-composer-install --typo3-version 10
     
 + DDEV Org name: georgbez
 + Github E-mail Address:  georgbez@gmail.com
